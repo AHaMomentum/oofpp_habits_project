@@ -4,7 +4,7 @@ Welcome to this Object-Oriented and Functional Habit Tracker Project! In the fol
 <h2>Installation</h2>
 Preconditions: An IDE supporting Python (VSCode, Pycharm) and a database with a hosting server (best: MariaDB)
 <ul>
-  <li>Download the folder</li>
+  <li>Download the folder <a href=Hardenbicker_Anna-Katharina_14074438_OOFPP_Habits_Submission_Final>Hardenbicker_Anna-Katharina_14074438_OOFPP_Habits_Submission_Final</a></li>
   <li>In an IDE, import or open the folder of the project. Depending on the IDE, this will be done automatically and not require support or it will require a bit support.</li>
   <li>Ensure that the parameters of the database connector fit the database server and database.</li>
   <li>Open the terminal/command prompt and navigate to the now imported/opened folder of this project.</li>
